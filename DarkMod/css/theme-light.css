@@ -1,0 +1,211 @@
+*{
+	border-color: white;
+}
+
+.right_backgroubd{
+	background-color: white;
+}
+body{
+	background: #E5E5E5;
+}
+.left{
+	background-color: white;
+}
+.otstup-1{
+	color:#7e7e7e;
+}
+
+.information{
+	color: #ffb400;
+}
+
+.aributs-right{
+	color: #767676;
+}
+.text-green{
+	color: #7eb942;
+}
+.Smool_text{
+	color:#767676;
+}
+.information-2{
+	color: #767676;
+}
+
+.Endl{
+	color: #767676;
+}
+
+.ridht-text2{
+	color: #767676;
+
+}
+.ello{
+	color:#FFB400;
+}
+
+
+.button_button1{
+	background-color: #FFB400;
+}
+.button_button11{
+	background-color: #FFB400;
+}
+.flex {
+	background: white;
+}
+.flex_4 {
+	background: white;
+}
+.text-color_2{
+	color: #767676;
+}	
+
+.text-color{
+	color: #767676;
+}
+.ello_2{
+	color:#FFB400;
+}
+.ridht-text3{
+	color: #767676;
+}
+.color_bottom{
+	color: #767676;
+}
+
+.flex_1 {
+	background: white;
+}
+.flex_14 {
+	background: white;
+}
+.flex_2 {
+	background: white;
+}
+.flex_3 {
+	background: white;
+}
+
+.information-question2{
+	background-color: #FFB400 ;
+}
+
+.information-question3{
+	color: #7EB942;
+}
+
+.text-color_3{
+	color: #2B2B2B;
+}	
+.text-color_4{
+	color: #767676;
+}	
+
+.ello3{
+	background-color: #FFB400;
+}
+.hr_margin{
+	border: 0.5px solid #FAFAFA;
+
+}
+.margin25{
+	border: 1.5px solid #F0F0F6;
+}
+
+.skrol{
+	background: #FFFFFF;
+}
+
+.left_text{
+	background: #FFFFFF;
+}
+
+.iconca div {
+	background-color: #FFB400;
+}
+
+.gg{
+	color: #767676;
+}
+
+.margin13{
+	color: #2B2B2B;
+}
+.margin14{
+	color: #767676;
+}
+
+.panel{
+	background-color: white;
+}
+.panel2{
+	color: #2B2B2B;
+}
+.ello4{
+	background-color: #FFB400;
+}
+.margin26{
+	color: #767676;
+}
+.hr_margin2{
+	border: 0.5px solid #FAFAFA;
+}
+
+.wan1{
+	background-color: white;
+}
+.wan2{
+	background-color: white;
+}
+.wan3{
+	background-color: white;
+}
+.How2{
+	color: #767676;
+}
+.How3{
+	color:#FFB400;
+}
+.email{
+	background-color: white;
+}
+.Country{
+	background-color: white;
+}
+.Your_1{
+	color: #767676;
+}
+.gray{
+	background: #F0F0F6;
+}
+.gray2{
+	background: #F0F0F6;
+}
+.button_button12{
+	background-color: #FFB400;
+}
+
+.Cou1{
+	color: #767676;
+}
+
+.iconca3 div {
+	background-color: #FFB400;
+}
+.right_2{
+	background-color: white;
+}
+.white5{
+	background-color: white;
+}
+.iconca5 div {
+	background-color:#F0F0F6;
+}
+
+.change-theme[data-theme="dark"]{
+	display: block;
+}
+.change-theme[data-theme="light"]{
+	display: none;
+}
